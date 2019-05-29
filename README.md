@@ -66,3 +66,14 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+
+UseFul Links : 
+https://codepen.io/ant1mas/pen/MeJjaK
+
+
+React Video Player : https://jsfiddle.net/e6w3rtj1/131/
+
+http://www.custarddoughnuts.co.uk/article/2016/5/14/how-to-make-segmented-circles-in-css
